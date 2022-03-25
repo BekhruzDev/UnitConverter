@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_the_amount">Enter the amount</string>
+    <string name="convert">Convert</string>
+    <string name="round_up_the_result">Round up the result</string>
+    <string name="ounces">Ounces</string>
+    <string name="millilitres">Millilitres</string>
+    <string name="final_result">%1$s</string>
+    <string name="result">Result:</string>
+</resources>
